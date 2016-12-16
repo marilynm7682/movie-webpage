@@ -4,3 +4,25 @@ h1{
     color: #630C03;
     text-align:center;
 }
+
+h3{
+    font-size: 40px;
+    font-family: "Dekko","Pacifico";
+    color:#630C03;
+    text-align: center;
+}
+
+.text{
+    font-size:25px;
+    font-family:"Comfortaa";
+    color:;
+    text-align: center;
+    
+}
+
+.form{
+    font-size:25px;
+    font-family:"Comfortaa";
+    color:;
+    text-align: center
+}
