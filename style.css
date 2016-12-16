@@ -1,3 +1,7 @@
+
+* {
+   background-color: pink 
+}
 h1{
     font-size:72px;
     font-family:"Pacifico","Dekko";
@@ -15,7 +19,6 @@ h3{
 .text{
     font-size:25px;
     font-family:"Comfortaa";
-    color:;
     text-align: center;
     
 }
